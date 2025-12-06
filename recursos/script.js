@@ -452,6 +452,16 @@ const activities = [
     date: "19 Diciembre 2025",
     url: "dia_nacional_contra_el_femicidio_2025.html",
   },
+  {
+    id: 48,
+    title: "GABRIELA MISTRAL PREMIO NOBEL DE LITERATURA",
+    image: "public/gabriela mistral (1).png",
+    status: "PRÓXIMAMENTE",
+    description:
+      "El 10 de diciembre de 1945, hace ochenta años, nuestra gran poetisa Gabriela Mistral recibió el Premio Nobel de Literatura....",
+    date: "10 Diciembre 2025",
+    url: "gabriela_mistral_premio_nobel_de_literatura.html",
+  },
   
 
 ]
