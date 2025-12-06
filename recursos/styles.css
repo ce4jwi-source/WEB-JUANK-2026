@@ -781,6 +781,14 @@ ol{
   margin: 0 auto;
 }
 
+.carousel-containerL {
+  width: 100%;
+  max-width: 900px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
 .carousel-title {
   color: #fafafa;
   font-size: 2rem;
